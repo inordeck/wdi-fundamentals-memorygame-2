@@ -11,6 +11,8 @@ nav {
 	padding: 20px 0;
 }
 main {
+	text-align: center;
+	display: inline-block;
 	width: 850px;
 	margin: 35px 0;
 }
@@ -52,6 +54,19 @@ p {
 }
 img {
 	margin: 40px 8px;
+}
+input {	
+	background-color: #f15b31;
+	border: none;
+	font-family: "Droid Serif";
+	font-size: 18px;
+	font-weight: 900;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
 }
 footer {
 	text-transform: uppercase;

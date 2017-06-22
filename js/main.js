@@ -20,7 +20,7 @@ var cards = [
    suit: "diamonds",
    cardImage: "images/king-of-diamonds.png",
  }
-];
+ ];
 var cardsInPlay = [];
 
 var checkForMatch = function() {
